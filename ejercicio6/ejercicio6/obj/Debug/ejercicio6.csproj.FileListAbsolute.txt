@@ -1,0 +1,5 @@
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe.config
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio6\ejercicio6\bin\Debug\ejercicio6.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio6\ejercicio6\bin\Debug\ejercicio6.pdb
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio6\ejercicio6\obj\Debug\ejercicio6.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio6\ejercicio6\obj\Debug\ejercicio6.pdb

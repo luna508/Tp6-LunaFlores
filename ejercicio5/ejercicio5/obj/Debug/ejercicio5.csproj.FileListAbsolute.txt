@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio5\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP6-FLORES LUNA- PROYECTO\ejercicio5\ejercicio5\obj\Debug\ejercicio5.pdb
